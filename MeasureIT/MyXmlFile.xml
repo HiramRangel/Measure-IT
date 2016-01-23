@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<StudentDetails>
+  <Student>
+    <ID>101</ID>
+    <Name>Amit</Name>
+    <Course>MCA</Course>
+    <College>Skyline</College>
+  </Student>
+  <Student>
+    <ID>102</ID>
+    <Name>Nimit</Name>
+    <Course>MCA</Course>
+    <College>Abes</College>
+  </Student>
+</StudentDetails>
